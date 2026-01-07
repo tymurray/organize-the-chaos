@@ -5,7 +5,7 @@
 ### Before 2:30 PM (Work Focus)
 - [x] 11 AM: Beard trim
 - [x] Complete QTI additions for 2:30 PM meeting
-- [ ] Finish self assessment
+- [x] Finish self assessment
 - [ ] Schedule appointment with Subaru for Lali's car (oil leak + check engine light)
 
 ### After 2:30 PM Meeting
