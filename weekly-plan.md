@@ -17,7 +17,6 @@
 
 ### Late Afternoon
 - [ ] Fit in mile run with Boomer
-- [ ] Pickup truck from Helena Ford + reschedule Expedition appointment for Thursday (Nidia follows to drive extra car)
 
 ### 5:30-6:00 PM
 - [ ] Arrive at Pinkerton house to work on trim
@@ -35,6 +34,7 @@
 - [x] Beard trim at 11 AM
 
 ### Wednesday Jan 7
+- [ ] **Morning:** Pickup truck from Helena Ford (transmission flush completed overnight) + reschedule Expedition appointment for Thursday (Nidia follows to drive extra car)
 - [ ] **6:00 PM:** Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
 - [ ] **After work:** Leave for Jackson Hole (staying at Airbnb)
 
