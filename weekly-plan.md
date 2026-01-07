@@ -16,7 +16,7 @@
 - [x] Head to Crested house to finish work
 
 ### Late Afternoon
-- [ ] Fit in mile run with Boomer
+- [x] Fit in mile run with Boomer
 
 ### 5:30-6:00 PM
 - [ ] Arrive at Pinkerton house to work on trim
@@ -24,6 +24,23 @@
 ### Evening
 - [ ] Pack for Jackson Hole - [x] Javin's back protector, [x] new vest with shovel/probe/beacon, [ ] mold mouth guard
 - [x] Let Nidia know about tomorrow's appointments (Dr Mow 8:30 am, beard trim 11 am)
+
+---
+
+## WEDNESDAY (Jan 7) - Jackson Hole Prep & Travel
+
+### Morning
+- [ ] Pickup truck from Helena Ford (transmission flush completed overnight)
+- [ ] Reschedule Expedition appointment for Thursday
+- [ ] Nidia follows to drive extra car
+
+### Before Leaving for Jackson Hole
+- [ ] Pickup groceries for Airbnb (so we can cook)
+- [ ] Pickup smaller cooler (not 100qt - need one that fits nicely in Expedition with drink cooler and food cooler)
+
+### Evening
+- [ ] 6:00 PM: Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
+- [ ] Leave for Jackson Hole (Airbnb)
 
 ---
 
