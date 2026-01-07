@@ -49,7 +49,7 @@
 ## TO SCHEDULE NEXT WEEK (When back from Jackson Hole)
 - [x] Oil change for Tremor at Helena Motors
 - [ ] Appointment for Lali's Subaru oil leak
-- [ ] Beard trims for February & March
+- [x] Beard trims for February & March
 - [ ] Airbnb for Whitefish competition (Feb 5-8, 2026)
 
 ---
