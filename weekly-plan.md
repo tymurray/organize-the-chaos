@@ -38,7 +38,7 @@
 - [x] Pickup truck from Helena Ford (transmission flush completed overnight)
 - [x] Reschedule Expedition appointment for Thursday
 - [x] Nidia follows to drive extra car
-- [ ] Schedule time off for Javin's ski competitions
+- [x] Schedule time off for Javin's ski competitions
 
 ### Before Leaving for Jackson Hole
 - [ ] Pickup groceries for Airbnb (so we can cook)
