@@ -3,17 +3,17 @@
 ## TODAY (Tuesday, Jan 6) - Schedule
 
 ### Before 2:30 PM (Work Focus)
-- [ ] 11 AM: Beard trim
-- [ ] Complete QTI additions for 2:30 PM meeting
+- [x] 11 AM: Beard trim
+- [x] Complete QTI additions for 2:30 PM meeting
 - [ ] Finish self assessment
 - [ ] Schedule appointment with Subaru for Lali's car (oil leak + check engine light)
 
 ### After 2:30 PM Meeting
 - [ ] Pickup nail punch from Lowes
-- [ ] 3:20 PM: Pickup Javin and Easton from school
+- [x] 3:20 PM: Pickup Javin and Easton from school
 
 ### After School Pickup
-- [ ] Head to Crested house to finish work
+- [x] Head to Crested house to finish work
 
 ### Late Afternoon
 - [ ] Fit in mile run with Boomer
@@ -32,7 +32,7 @@
 
 ### Monday Jan 6
 - [x] Dr Mow appointment at 8:30 AM
-- [ ] Beard trim at 11 AM
+- [x] Beard trim at 11 AM
 
 ### Wednesday Jan 7
 - [ ] **6:00 PM:** Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
