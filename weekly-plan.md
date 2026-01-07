@@ -22,7 +22,7 @@
 - [ ] Arrive at Pinkerton house to work on trim
 
 ### Evening
-- [ ] Pack for Jackson Hole - [x] Javin's back protector, [x] new vest with shovel/probe/beacon, [ ] mold mouth guard
+- [ ] Pack for Jackson Hole - [x] Javin's back protector, [x] new vest with shovel/probe/beacon, [x] mold mouth guard
 - [x] Let Nidia know about tomorrow's appointments (Dr Mow 8:30 am, beard trim 11 am)
 
 ---
