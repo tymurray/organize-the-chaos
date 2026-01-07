@@ -35,9 +35,9 @@
 - [ ] Complete epic and tickets for improving observability with funnel and temporal workflows (can be second codathon work item if needed)
 
 ### Morning
-- [ ] Pickup truck from Helena Ford (transmission flush completed overnight)
-- [ ] Reschedule Expedition appointment for Thursday
-- [ ] Nidia follows to drive extra car
+- [x] Pickup truck from Helena Ford (transmission flush completed overnight)
+- [x] Reschedule Expedition appointment for Thursday
+- [x] Nidia follows to drive extra car
 - [ ] Schedule time off for Javin's ski competitions
 
 ### Before Leaving for Jackson Hole
