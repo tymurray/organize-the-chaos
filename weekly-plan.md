@@ -32,7 +32,7 @@
 ### Work Priorities
 - [ ] **TOP PRIORITY:** Finish QTI for Q1 2026 and share with leads to add any additional items to the plan
 - [ ] Convert gdocs sync tool from Python to Kotlin
-- [ ] Complete epic and tickets for improving observability with funnel and temporal workflows (can be second codathon work item if needed)
+- [x] Complete epic and tickets for improving observability with funnel and temporal workflows (can be second codathon work item if needed)
 
 ### Morning
 - [x] Pickup truck from Helena Ford (transmission flush completed overnight)
