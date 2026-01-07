@@ -29,10 +29,16 @@
 
 ## WEDNESDAY (Jan 7) - Jackson Hole Prep & Travel
 
+### Work Priorities
+- [ ] **TOP PRIORITY:** Finish QTI for Q1 2026 and share with leads to add any additional items to the plan
+- [ ] Convert gdocs sync tool from Python to Kotlin
+- [ ] Complete epic and tickets for improving observability with funnel and temporal workflows (can be second codathon work item if needed)
+
 ### Morning
 - [ ] Pickup truck from Helena Ford (transmission flush completed overnight)
 - [ ] Reschedule Expedition appointment for Thursday
 - [ ] Nidia follows to drive extra car
+- [ ] Schedule time off for Javin's ski competitions
 
 ### Before Leaving for Jackson Hole
 - [ ] Pickup groceries for Airbnb (so we can cook)
