@@ -14,12 +14,12 @@
 - [x] Schedule time off for Javin's ski competitions
 
 ### Before Leaving for Jackson Hole
-- [ ] Pickup groceries for Airbnb (so we can cook)
-- [ ] Pickup smaller cooler (not 100qt - need one that fits nicely in Expedition with drink cooler and food cooler)
+- [x] Pickup groceries for Airbnb (so we can cook)
+- [x] Pickup smaller cooler (not 100qt - need one that fits nicely in Expedition with drink cooler and food cooler)
 
 ### Evening
-- [ ] 6:00 PM: Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
-- [ ] Leave for Jackson Hole (Airbnb)
+- [x] 6:00 PM: Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
+- [x] Leave for Jackson Hole (Airbnb)
 
 ---
 
@@ -32,7 +32,7 @@
 - [ ] Schedule appointment with Subaru for Lali's car (oil leak + check engine light)
 
 ### After 2:30 PM Meeting
-- [ ] Pickup nail punch from Lowes
+- [x] Pickup nail punch from Lowes
 - [x] 3:20 PM: Pickup Javin and Easton from school
 
 ### After School Pickup
@@ -42,10 +42,10 @@
 - [x] Fit in mile run with Boomer
 
 ### 5:30-6:00 PM
-- [ ] Arrive at Pinkerton house to work on trim
+- [x] Arrive at Pinkerton house to work on trim
 
 ### Evening
-- [ ] Pack for Jackson Hole - [x] Javin's back protector, [x] new vest with shovel/probe/beacon, [x] mold mouth guard
+- [x] Pack for Jackson Hole - [x] Javin's back protector, [x] new vest with shovel/probe/beacon, [x] mold mouth guard
 - [x] Let Nidia know about tomorrow's appointments (Dr Mow 8:30 am, beard trim 11 am)
 
 ---
@@ -58,8 +58,8 @@
 
 ### Wednesday Jan 7
 - [x] **Morning:** Pickup truck from Helena Ford (transmission flush completed overnight) + reschedule Expedition appointment for Thursday (Nidia follows to drive extra car)
-- [ ] **6:00 PM:** Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
-- [ ] **After work:** Leave for Jackson Hole (staying at Airbnb)
+- [x] **6:00 PM:** Sign Javin up for Whitefish competition (CRITICAL - don't miss!)
+- [x] **After work:** Leave for Jackson Hole (staying at Airbnb)
 
 ### Before Wednesday
 - [ ] Send final QTI update for Q4 2025 to leadership/eng team
