@@ -11,7 +11,7 @@
 
 🏠 **Personal:**
 - [ ] Big Sky competition (Jan 29-31) executed smoothly
-- [ ] Whitefish Airbnb booked (Feb 5-8)
+- [✓] Whitefish Airbnb booked (Feb 5-8)
 - [ ] Subaru appointment scheduled (oil leak + check engine light)
 - [ ] Pinkerton: Start prep work if time allows
 
@@ -52,7 +52,7 @@
 - [ ] Complete feedback for engineers - due Thursday (SPRINT GOAL)
 
 🏠 **Personal must-dos:**
-- [ ] Book Airbnb for Whitefish competition (Feb 5-8) - ASAP (SPRINT GOAL)
+- [✓] Book Airbnb for Whitefish competition (Feb 5-8) - DONE
 - [ ] Schedule Subaru appointment (oil leak + check engine light) (SPRINT GOAL)
 - [ ] Prep for Big Sky competition (Jan 29-31)
 - [ ] Pinkerton work: Start quarter round or nail hole filling if evening available
@@ -118,7 +118,7 @@
   - [✓] Lodging set (staying at condo)
   - [→] Jan 30: Ski ninja volunteer (check-in 8 AM at BSSEF team room)
 - [ ] Whitefish competition (Feb 5-8)
-  - [ ] Book Airbnb (URGENT - prices rising)
+  - [✓] Book Airbnb - DONE
   - [ ] Competition prep
 - [ ] Presidents Weekend family ski trip at Whitefish (Feb 14-18)
   - [ ] Lodging
@@ -320,8 +320,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## REMINDERS & NOTES
 
 ### 🚨 Don't Forget
-- **Subaru appointment** - This keeps getting deferred, schedule Monday!
-- **Whitefish Airbnb** - Book NOW, prices increase daily
+- **Subaru appointment** - This keeps getting deferred, schedule ASAP!
+- **Whitefish Airbnb** - ✓ BOOKED for Feb 5-8
 - **Big Sky Jan 30** - Check-in 8 AM at BSSEF team room (ski ninja volunteer)
 
 ### ⚡ Energy Management
@@ -331,7 +331,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### 🎯 Focus Areas
 - **Work:** QTI Q1 plan is TOP priority until Wednesday
-- **Personal:** Big Sky logistics + book Whitefish
+- **Personal:** Big Sky logistics (Whitefish Airbnb ✓ booked)
 - **House:** Start when possible, no pressure this week
 
 ### 💡 System Notes
