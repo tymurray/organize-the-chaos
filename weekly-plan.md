@@ -197,7 +197,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - 3:55-5:00 PM - ❇️ Focus Time (Clockwise) - Now 3:00-4:15 PM available (75 min)
 
 **🏠 Personal Commitments:**
-- 8:00-8:30 AM - Call Subaru dealership for oil leak appointment ✓ COMPLETE
+- 8:00-8:30 AM - Call Subaru dealership for oil leak appointment (still pending)
 - 12:30 PM - Jam early release (Nidia handling)
 - 4:30 PM - CrossFit workout
 - 6:45 PM - Nidia dinner with Kate (solo with kids for evening)
@@ -218,7 +218,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 💼 **Work Focus (Top 2)**
 - [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (due END OF TODAY) - **Use afternoon focus blocks**
-- [✓] Call Subaru dealership for oil leak appointment - DONE
+- [ ] Call Subaru dealership for oil leak appointment (still need to do)
 
 🏠 **Personal Focus (Top 1)**
 - [ ] Prep Big Sky competition gear and logistics
