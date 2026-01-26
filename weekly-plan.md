@@ -188,38 +188,37 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ### 📅 TODAY'S CALENDAR
 
 **💼 Work Commitments:**
-- 8:30-10:15 AM - ❇️ Focus Time (Clockwise) - **BEST TIME FOR STATS WORK**
+- 8:30-10:15 AM - ❇️ Focus Time (Clockwise) - Used for planning
 - 10:15-10:30 AM - HLID: Daily Standup (15 min)
-- 10:30 AM-12:00 PM - ❇️ Focus Time (Clockwise)
-- 1:00-2:00 PM - Interview: Staff Software Engineer candidate
+- 10:30 AM-12:00 PM - ❇️ Focus Time (Clockwise) - Booked Airbnb
+- 1:00-2:00 PM - Interview: Staff Software Engineer candidate ✓ COMPLETE
 - 2:30-2:55 PM - Palantir <> HL meeting (25 min)
-- 3:30-3:55 PM - Weekly Testing Sync (25 min)
-- 3:55-5:00 PM - ❇️ Focus Time (Clockwise)
+- 3:30-3:55 PM - Weekly Testing Sync (25 min) - CANCELLED
+- 3:55-5:00 PM - ❇️ Focus Time (Clockwise) - Now 3:00-4:15 PM available (75 min)
 
 **🏠 Personal Commitments:**
-- 8:00-8:30 AM - Call Subaru dealership for oil leak appointment
+- 8:00-8:30 AM - Call Subaru dealership for oil leak appointment ✓ COMPLETE
 - 12:30 PM - Jam early release (Nidia handling)
 - 4:30 PM - CrossFit workout
 - 6:45 PM - Nidia dinner with Kate (solo with kids for evening)
 - **Evening (after kids):** Pinkerton work - Fill nail holes + finish quarter round
 
 **⏰ Available Work Blocks:**
-- Early morning: 8:30-10:15 AM (1h 45min) - LOST TO PLANNING (already spent)
-- Late morning: 10:30 AM-12:00 PM (1h 30min) - Book Airbnb + start Stats prep
-- Late afternoon: 3:55-4:15 PM (20 min only) - Leave for CrossFit at 4:30 PM
-- **Remaining deep work time: ~1h 50min** (Stats must fit in this!)
-- **Note:** CrossFit at 4:30 PM cuts the 3:55-5:00 PM focus block short
+- Early morning: 8:30-10:15 AM (1h 45min) - Used for planning ✓
+- Late morning: 10:30 AM-12:00 PM (1h 30min) - Used for Airbnb booking ✓
+- Afternoon: 3:00-4:15 PM (75 min) - **NOW AVAILABLE for Stats work** (Testing Sync cancelled)
+- **Bonus time from cancelled meeting!**
 
 ---
 
 ### 🎯 TODAY'S PRIORITIES
 
 🔥 **CAN'T MISS (Just 1)**
-- [ ] Book Whitefish Airbnb (Feb 5-8) - Prices rising, competition in 10 days
+- [✓] Book Whitefish Airbnb (Feb 5-8) - DONE
 
 💼 **Work Focus (Top 2)**
 - [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (due END OF TODAY) - **Use afternoon focus blocks**
-- [ ] Call Subaru dealership for oil leak appointment (business hours - 8:00 AM)
+- [✓] Call Subaru dealership for oil leak appointment - DONE
 
 🏠 **Personal Focus (Top 1)**
 - [ ] Prep Big Sky competition gear and logistics
