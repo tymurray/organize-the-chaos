@@ -319,7 +319,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## UPCOMING (Beyond Next Week)
 
 ### February
-- **Feb 13-18:** Presidents Weekend family ski trip at Whitefish (Thu-Tue)
+- **Feb 13-18:** Presidents Weekend family ski trip at Whitefish (Fri-Tue)
 - **Mid-Feb:** Q1 2026 mid-quarter check-in
 - **Late Feb:** Start backcountry gear research and purchases
 
