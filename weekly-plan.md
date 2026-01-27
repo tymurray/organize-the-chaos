@@ -113,9 +113,13 @@
 **Milestones:**
 - [✓] Jackson Hole competition (Jan 7-8) - Complete
   - Travel, lodging, gear all handled successfully
-- [→] **Big Sky competition (Jan 29-31) - CURRENT FOCUS**
+- [→] **Big Sky competition (Jan 29-31) - CURRENT FOCUS (THIS WEEKEND!)**
   - [✓] Registration complete
   - [✓] Lodging set (staying at condo)
+  - [ ] Ski tune scheduled (Call First Chair Services - Tue AM)
+  - [ ] Boot straps ordered for shin bang (Order Tue AM)
+  - [→] Shin routine established (ice + ibuprofen + strengthening - Tue/Wed/Thu evenings)
+  - [ ] Gear packed (Thu evening)
   - [→] Jan 30: Ski ninja volunteer (check-in 8 AM at BSSEF team room)
 - [ ] Whitefish competition (Feb 5-8)
   - [✓] Book Airbnb - DONE
@@ -138,15 +142,15 @@
 ---
 
 ### Pinkerton House Renovation
-**Progress:** ██░░░░░░░░ 20% (1 of 9 milestones) | **Sprint target:** 30%
-**Started:** Jan 1, 2026 | **Last worked:** Jan 6
-**Next milestone:** Quarter round installation
-**This week:** Start quarter round or nail hole filling if weeknight available
+**Progress:** ███░░░░░░░ 27% (2.5 of 9 milestones) | **Sprint target:** 30%
+**Started:** Jan 1, 2026 | **Last worked:** Jan 26 (Monday evening)
+**Next milestone:** Finish last quarter round piece, then fill remaining nail holes
+**This week:** Limited availability (Big Sky Thu-Sat), but made good progress Monday
 
 **Milestones:**
 - [✓] Trim work complete
-- [→] **Quarter round installed under cabinets - CURRENT FOCUS**
-- [ ] Fill nail holes (all trim and quarter round)
+- [→] **Quarter round installed under cabinets - 95% DONE (1 piece left in kitchen)**
+- [→] **Fill nail holes (all trim and quarter round) - IN PROGRESS (kitchen done)**
 - [ ] Sand trim and quarter round
 - [ ] Wall prep for painting (all rooms except Javin's)
 - [ ] Paint all rooms (except Javin's)
@@ -169,67 +173,76 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ---
 
-## TODAY: Monday, January 26
+## COMPLETED: Monday, January 26
+✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton: Nail holes + quarter round (1 piece left)
+⏳ Stats for Aravind (rolled to Tue) | ⏳ Subaru call (rolled to Tue)
+
+---
+
+## TODAY: Tuesday, January 27
 
 ### ⏰ MORNING REVIEW (5 min - Do this FIRST)
-- [ ] Work calendar events reviewed (check below)
-- [ ] Personal commitments added to calendar section
-- [ ] **Workout time chosen** (see options below - pick based on today's schedule)
-- [ ] Today's priorities are realistic given available time
-- [ ] Clear mental picture of the day's flow
-- [ ] Top priority identified and ready to tackle
+- [✓] Work calendar events reviewed (check below)
+- [✓] Personal commitments added to calendar section
+- [✓] **Workout time chosen** - 4:30 PM CrossFit
+- [✓] Today's priorities are realistic given available time
+- [✓] Clear mental picture of the day's flow
+- [✓] Top priority identified: Stats for Aravind (CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [✓] **4:30 PM CrossFit** (already scheduled - no Pinkerton work tonight)
-- Reason: No late meetings, Nidia has dinner out, good day for 4:30 PM slot
+- [✓] **4:30 PM CrossFit**
+- Reason: After school pickup at 3:30 PM, good window for workout
 
 ---
 
 ### 📅 TODAY'S CALENDAR
 
 **💼 Work Commitments:**
-- 8:30-10:15 AM - ❇️ Focus Time (Clockwise) - Used for planning
-- 10:15-10:30 AM - HLID: Daily Standup (15 min)
-- 10:30 AM-12:00 PM - ❇️ Focus Time (Clockwise) - Booked Airbnb
-- 1:00-2:00 PM - Interview: Staff Software Engineer candidate ✓ COMPLETE
-- 2:30-2:55 PM - Palantir <> HL meeting (25 min)
-- 3:30-3:55 PM - Weekly Testing Sync (25 min) - CANCELLED
-- 3:55-5:00 PM - ❇️ Focus Time (Clockwise) - Now 3:00-4:15 PM available (75 min)
+- 8:30-10:15 AM - ❇️ Focus Time (Clockwise) (1h 45min)
+- 10:15-11:15 AM - HLID Backlog Review (1 hour) - **SKIPPING for extended focus time**
+- 11:15 AM-12:15 PM - Interview: Staff Software Engineer candidate
+- 12:30-1:30 PM - HL Eng Design Review: SoFi-driven HL task orchestration Plan
+- 1:30-2:30 PM - ❇️ Focus Time (Clockwise) (1 hour)
+- 2:30-2:55 PM - Originations Technical Sync (25 min)
+- 2:55-5:00 PM - ❇️ Focus Time (Clockwise) (2h 5min, ends at 3:30 PM for pickup)
 
 **🏠 Personal Commitments:**
-- 8:00-8:30 AM - Call Subaru dealership for oil leak appointment (still pending)
-- 12:30 PM - Jam early release (Nidia handling)
+- Morning: Call Subaru dealership for oil leak appointment (MUST DO)
+- Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!)
+- Morning: Order boot straps for Javin's boots (MUST DO - shin bang)
+- 3:30 PM - Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
 - 4:30 PM - CrossFit workout
-- 6:45 PM - Nidia dinner with Kate (solo with kids for evening)
-- **Evening (after kids):** Pinkerton work - Fill nail holes + finish quarter round
+- **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 **⏰ Available Work Blocks:**
-- Early morning: 8:30-10:15 AM (1h 45min) - Used for planning ✓
-- Late morning: 10:30 AM-12:00 PM (1h 30min) - Used for Airbnb booking ✓
-- Afternoon: 3:00-4:15 PM (75 min) - **NOW AVAILABLE for Stats work** (Testing Sync cancelled)
-- **Bonus time from cancelled meeting!**
+- **8:30-11:15 AM (2h 45min)** - Extended focus (HLID Backlog skipped) - STATS WORK
+- 1:30-2:30 PM (1 hour) - Continue Stats or start QTI
+- 2:55-3:30 PM (~35 min) - Quick work before school pickup
+- **Total: ~4h 20min deep work time**
 
 ---
 
 ### 🎯 TODAY'S PRIORITIES
 
 🔥 **CAN'T MISS (Just 1)**
-- [✓] Book Whitefish Airbnb (Feb 5-8) - DONE
+- [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (rolled from Monday) - **Use morning 2h 45min block**
 
 💼 **Work Focus (Top 2)**
-- [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (due END OF TODAY) - **Use afternoon focus blocks**
-- [ ] Call Subaru dealership for oil leak appointment (still need to do)
+- [ ] QTI Q1 2026: Major progress on finalization (DUE TOMORROW Wed Jan 28!)
+- [ ] Engineer feedback: Start first drafts if time permits
 
-🏠 **Personal Focus (Top 1)**
-- [ ] Prep Big Sky competition gear and logistics
+🏠 **Personal MUST DO (Big Sky this weekend!)**
+- [ ] Call Subaru dealership for oil leak appointment
+- [ ] Call First Chair Services - schedule ski tune
+- [ ] Order boot straps for Javin's boots (shin bang)
+- [ ] Evening: Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 📋 **If Time Permits (Work)**
-- [ ] QTI Q1 2026: Review sections for Wednesday deadline (or do tomorrow AM)
-- [ ] Engineer feedback: Start first drafts
+- [ ] Review design doc for 12:30 PM meeting
 
 📋 **If Time Permits (Personal)**
-- [ ] Pinkerton: Survey quarter round materials needed
 - [ ] Review Big Sky schedule with Javin
+- [ ] Pack gear for Big Sky (Thu-Sat)
 
 ---
 
@@ -238,11 +251,11 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 **Completion Check:**
 - [ ] CAN'T MISS item status: [Done / In Progress / Blocked - explain why]
 - [ ] Work Focus items: [List what got done]
-- [ ] Personal Focus items: [List what got done]
+- [ ] Personal MUST DO items: [List what got done]
 
 **Tomorrow Planning:**
 - [ ] Incomplete items moved to tomorrow or dropped (be honest)
-- [ ] Tomorrow's #1 CAN'T MISS identified
+- [ ] Tomorrow's #1 CAN'T MISS identified: QTI Q1 2026 finalization (DEADLINE)
 - [ ] Any blockers or concerns noted below
 
 **Brain Dump (write anything causing anxiety):**
@@ -251,34 +264,35 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 -
 
 **Tomorrow Preview:**
-- Top priority: [What's the ONE thing that must happen tomorrow?]
+- Top priority: QTI Q1 2026 finalization - DEADLINE DAY
 - Key appointments: [Any critical meetings or commitments?]
+- Big Sky prep continues (pack gear, evening shin routine)
 
 ---
 
 ## THIS WEEK - Key Deadlines
 
-### Monday, Jan 26 (TODAY)
-- **8:00 AM:** Call Subaru dealership for oil leak appointment
-- **10:30 AM-12:00 PM:** Book Whitefish Airbnb + Stats work
-- **12:30 PM:** Jam early release (Nidia handling)
-- **4:30 PM:** CrossFit workout
-- **6:45 PM:** Nidia dinner with Kate (solo with kids)
-- **Work:** Complete Stats for Aravind by end of day (LIMITED TIME!)
+### Monday, Jan 26 - COMPLETE
+✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton work
+⏳ Stats rolled to Tue | ⏳ Subaru call rolled to Tue
 
-### Tuesday, Jan 27
+### Tuesday, Jan 27 (TODAY)
+- **Morning:** Call Subaru + Call First Chair Services (ski tune) + Order boot straps
+- **8:30-11:15 AM:** Extended focus time (HLID Backlog skipped) - STATS WORK
 - **3:30 PM:** Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
-- **Work:** Continue QTI Q1 plan finalization
-- **Work:** Start engineer feedback drafts
+- **4:30 PM:** CrossFit workout
+- **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
+- **Work:** Complete Stats for Aravind + Major progress on QTI
 
 ### Wednesday, Jan 28 🔥
 - **DEADLINE:** QTI Q1 2026 plan finalized and shared with leads (TOP PRIORITY)
 - **Work:** Complete engineer feedback drafts
+- **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 ### Thursday, Jan 29
 - **8:15 AM:** Nidia's lash appointment (may affect morning routine)
 - **Work:** Finalize engineer feedback
-- **Evening:** Prep for Big Sky competition (pack gear, review schedule)
+- **Evening:** Javin shin routine + Prep for Big Sky (pack gear, review schedule)
 
 ### Friday, Jan 30
 - **8:00 AM:** Check-in at BSSEF team room for ski ninja volunteer duty
