@@ -233,9 +233,10 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 🔥 **CAN'T MISS (Just 1)**
 - [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (rolled from Monday) - **Use morning 2h 45min block**
 
-💼 **Work Focus (Top 2)**
+💼 **Work Focus (Top 3)**
+- [ ] Prep for 11:15 AM interview (Staff Software Engineer) - **Before 11:15 AM**
 - [ ] QTI Q1 2026: Major progress on finalization (DUE TOMORROW Wed Jan 28!)
-- [ ] Engineer feedback: Start first drafts if time permits
+- [ ] Prep for Originations Technical Sync - **After Design Review, before 2:30 PM meeting**
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
 - [ ] Call Subaru dealership for oil leak appointment
@@ -244,7 +245,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [ ] Evening: Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 📋 **If Time Permits (Work)**
-- [ ] Review design doc for 12:30 PM meeting
+- [ ] Engineer feedback: Start first drafts
+- [ ] Review design doc for 12:30 PM meeting (HL Eng Design Review)
 
 📋 **If Time Permits (Personal)**
 - [ ] Review Big Sky schedule with Javin
