@@ -133,6 +133,31 @@
 
 ---
 
+## 💪 HEALTH & FITNESS
+
+### Weight Loss Goal
+**Target:** 200 lbs by end of April 2026
+**Current:** 227 lbs (as of Jan 27)
+**Starting:** 231 lbs (early January)
+**Progress:** ███░░░░░░░ 13% (4 of 31 lbs lost)
+**Remaining:** 27 lbs to lose
+**Timeline:** ~13 weeks remaining (~2 lbs/week target)
+
+**Milestones:**
+- [✓] Lost first 4 lbs (231 → 227)
+- [ ] Reach 220 lbs (7 more lbs)
+- [ ] Reach 210 lbs (17 more lbs)
+- [ ] Reach 200 lbs - TARGET (27 more lbs)
+
+**Key Strategies:**
+- Regular CrossFit workouts (3-4x per week goal)
+- Consistent calorie tracking/awareness
+- Sustainable habits over quick fixes
+
+**Weekly Check-ins:** Track weight trend, not daily fluctuations
+
+---
+
 ## 🏠 PERSONAL PROJECTS (Max 2 active)
 
 ### Javin's Ski Season Support
