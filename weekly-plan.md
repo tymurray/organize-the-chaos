@@ -10,7 +10,7 @@
 - [ ] Engineer feedback completed
 
 🏠 **Personal:**
-- [ ] Big Sky competition (Jan 29-31) executed smoothly
+- [ ] Big Sky competition (Jan 30-31, weather day Feb 1) executed smoothly
 - [✓] Whitefish Airbnb booked (Feb 5-8)
 - [ ] Subaru appointment scheduled (oil leak + check engine light)
 - [ ] Pinkerton: Start prep work if time allows
@@ -29,7 +29,7 @@
 
 🏠 **Personal:**
 - [ ] Whitefish competition (Feb 5-8) executed smoothly
-- [ ] Presidents Weekend family ski trip (Feb 14-18) executed smoothly
+- [ ] Presidents Weekend family ski trip (Feb 13-18) executed smoothly
 - [ ] Pinkerton: Quarter round + nail holes + sanding complete
 - [ ] Pinkerton: Wall prep started (realistic given limited weeknight availability)
 - [ ] Backcountry gear research started (skis, touring boots, skins)
@@ -37,9 +37,9 @@
 **Sprint review:** Friday, Feb 28 at 4 PM
 
 **Note:** Limited Pinkerton work availability in February due to:
-- Big Sky competition (Jan 29-31)
+- Big Sky competition (Jan 30-31, weather day Feb 1)
 - Whitefish competition (Feb 5-8)
-- Presidents Weekend ski trip (Feb 14-18)
+- Presidents Weekend ski trip (Feb 13-18)
 - Estimated ~8-10 weeknights available for painting/prep
 
 ---
@@ -54,7 +54,7 @@
 🏠 **Personal must-dos:**
 - [✓] Book Airbnb for Whitefish competition (Feb 5-8) - DONE
 - [ ] Schedule Subaru appointment (oil leak + check engine light) (SPRINT GOAL)
-- [ ] Prep for Big Sky competition (Jan 29-31)
+- [ ] Prep for Big Sky competition (Jan 30-31, weather day Feb 1)
 - [ ] Pinkerton work: Start quarter round or nail hole filling if evening available
 
 **Energy level:** ⚡⚡⚡⚪⚪ (3/5 - Managing multiple priorities)
@@ -113,7 +113,7 @@
 **Milestones:**
 - [✓] Jackson Hole competition (Jan 7-8) - Complete
   - Travel, lodging, gear all handled successfully
-- [→] **Big Sky competition (Jan 29-31) - CURRENT FOCUS (THIS WEEKEND!)**
+- [→] **Big Sky competition (Jan 30-31, weather day Feb 1) - CURRENT FOCUS (THIS WEEKEND!)**
   - [✓] Registration complete
   - [✓] Lodging set (staying at condo)
   - [ ] Ski tune scheduled (Call First Chair Services - Tue AM)
@@ -124,7 +124,7 @@
 - [ ] Whitefish competition (Feb 5-8)
   - [✓] Book Airbnb - DONE
   - [ ] Competition prep
-- [ ] Presidents Weekend family ski trip at Whitefish (Feb 14-18)
+- [ ] Presidents Weekend family ski trip at Whitefish (Feb 13-18)
   - [ ] Lodging
   - [ ] Plan activities
 - [ ] Competition skis purchase (end of season timing - March/April)
@@ -161,7 +161,7 @@
 
 **Timeline Notes:**
 - Work weeknights when available during February (limited by ski trips)
-- February availability: ~8-10 weeknights (lose Jan 29-31, Feb 5-8, Feb 14-18)
+- February availability: ~8-10 weeknights (lose Jan 30-Feb 1, Feb 5-8, Feb 13-18)
 - March: More availability as competition schedule lightens
 - Early April: Final push before mid-April listing
 - Ski season ends April 26, full focus available after
@@ -300,7 +300,10 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### Saturday, Jan 31
 - **All day:** Big Sky competition continues
-- **Evening:** Sprint review - assess week's progress
+
+### Sunday, Feb 1
+- **Weather day:** Big Sky competition (if needed)
+- **Evening:** Sprint review - assess week's progress (if home)
 
 ---
 
@@ -316,7 +319,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## UPCOMING (Beyond Next Week)
 
 ### February
-- **Feb 14-18:** Presidents Weekend family ski trip at Whitefish (Fri-Tue)
+- **Feb 13-18:** Presidents Weekend family ski trip at Whitefish (Thu-Tue)
 - **Mid-Feb:** Q1 2026 mid-quarter check-in
 - **Late Feb:** Start backcountry gear research and purchases
 
