@@ -209,7 +209,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - 11:15 AM-12:15 PM - Interview: Staff Software Engineer candidate
 - 12:30-1:30 PM - HL Eng Design Review: SoFi-driven HL task orchestration Plan
 - 1:30-2:30 PM - ❇️ Focus Time (Clockwise) (1 hour)
-- 2:30-2:55 PM - Originations Technical Sync (25 min)
+- 2:30-2:55 PM - ~~Originations Technical Sync (25 min)~~ **CANCELLED**
 - 2:55-5:00 PM - ❇️ Focus Time (Clockwise) (2h 5min, ends at 3:30 PM for pickup)
 
 **🏠 Personal Commitments:**
@@ -223,8 +223,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 **⏰ Available Work Blocks:**
 - **8:30-11:15 AM (2h 45min)** - Extended focus (HLID Backlog skipped) - STATS WORK
 - 1:30-2:30 PM (1 hour) - Continue Stats or start QTI
-- 2:55-3:30 PM (~35 min) - Quick work before school pickup
-- **Total: ~4h 20min deep work time**
+- 2:30-3:30 PM (1 hour) - Extra time from cancelled meeting
+- **Total: ~4h 45min deep work time**
 
 ---
 
@@ -233,15 +233,14 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 🔥 **CAN'T MISS (Just 1)**
 - [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (rolled from Monday) - **Use morning 2h 45min block**
 
-💼 **Work Focus (Top 3)**
+💼 **Work Focus (Top 2)**
 - [ ] Prep for 11:15 AM interview (Staff Software Engineer) - **Before 11:15 AM**
 - [ ] QTI Q1 2026: Major progress on finalization (DUE TOMORROW Wed Jan 28!)
-- [ ] Prep for Originations Technical Sync - **After Design Review, before 2:30 PM meeting**
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
 - [ ] Call Subaru dealership for oil leak appointment
 - [ ] Call First Chair Services - schedule ski tune
-- [ ] Order boot straps for Javin's boots (shin bang)
+- [✓] Order boot straps for Javin's boots (shin bang)
 - [ ] Evening: Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 📋 **If Time Permits (Work)**
