@@ -83,22 +83,28 @@
 
 ---
 
-### Observability Improvements (Funnel + Temporal)
-**Progress:** ████████░░ 80% (4 of 5 milestones)
-**Started:** Dec 15, 2025 | **Last worked:** Jan 7
-**Status:** Near completion, can be second codathon work item
-**Next milestone:** Ready for codathon
+### Palantir Validation & Orchestration Layer
+**Progress:** ░░░░░░░░░░ 0% (0 of 4 milestones) | **Sprint target:** 25%
+**Started:** Jan 27, 2026 | **Last worked:** Not started yet
+**Next milestone:** Requirements gathering/discovery
+**This week:** Begin discovery work after QTI deadline Wednesday
 
 **Milestones:**
-- [✓] Requirements gathering
-- [✓] Architecture design
-- [✓] Epic creation
-- [✓] Ticket breakdown
-- [ ] Ready for codathon (minor cleanup)
+- [→] **Requirements gathering / discovery - CURRENT FOCUS**
+- [ ] Architecture design
+- [ ] Proof of concept
+- [ ] Share with stakeholders for direction validation
 
 **Notes:**
-- This is largely complete, minimal ongoing work needed
-- Deprioritized: Gdocs sync tool Python → Kotlin conversion
+- Build a Palantir-based validation and orchestration layer between POS origination systems and Encompass (LOS)
+- Next 2 weeks: Provide updates to Aravind and Todd
+- Final milestone: Present to stakeholders to validate chosen direction
+
+---
+
+### Background Projects (Deprioritized)
+
+**Observability Improvements (Funnel + Temporal)** - 80% complete, ready for codathon when scheduled
 
 ---
 
