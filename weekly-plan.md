@@ -108,6 +108,31 @@
 
 ---
 
+## 📚 PROFESSIONAL DEVELOPMENT
+
+### Kotlin Coroutines Mastery
+**Goal:** Become an expert in Kotlin coroutines
+**Progress:** ░░░░░░░░░░ 0% (Getting started)
+**Started:** Jan 27, 2026
+
+**Learning Path:**
+- [ ] Understand coroutine basics (launch, async, suspend functions)
+- [ ] Master structured concurrency and scopes
+- [ ] Learn coroutine contexts and dispatchers
+- [ ] Understand channels and flows
+- [ ] Practice error handling and cancellation
+- [ ] Apply to real-world scenarios in codebase
+
+**Resources to explore:**
+- Official Kotlin coroutines documentation
+- "Kotlin Coroutines: Deep Dive" book
+- Internal codebase examples
+- Build sample projects
+
+**Weekly commitment:** Dedicate time during slower work periods or "If Time Permits" slots
+
+---
+
 ## 🏠 PERSONAL PROJECTS (Max 2 active)
 
 ### Javin's Ski Season Support
