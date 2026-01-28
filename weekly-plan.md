@@ -299,7 +299,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 📋 **If Time Permits (Personal)**
 - [ ] Review Big Sky schedule with Javin
-- [ ] Pack gear for Big Sky (Thu-Sat)
+- [ ] Start packing gear for Big Sky (finish Thursday before leaving)
 
 ---
 
@@ -358,7 +358,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ### Thursday, Jan 29
 - **8:15 AM:** Nidia's lash appointment (may affect morning routine)
 - **Work:** Complete engineer feedback drafts (DUE TODAY)
-- **Evening:** Javin shin routine + Prep for Big Sky (pack gear, review schedule)
+- **Afternoon:** Pick up Javin and Ty's skis from First Chair Services (MUST DO before leaving)
+- **Afternoon/Evening:** Drive to Four Corners - stay the night before Big Sky competition
+- **Before leaving:** Javin shin routine + Finish packing gear
 
 ### Friday, Jan 30
 - **8:00 AM:** Check-in at BSSEF team room for ski ninja volunteer duty
