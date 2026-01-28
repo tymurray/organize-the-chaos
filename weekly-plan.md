@@ -244,15 +244,15 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## TODAY: Wednesday, January 28
 
 ### ⏰ MORNING REVIEW (5 min - Do this FIRST)
-- [ ] Work calendar events reviewed (check below)
+- [✓] Work calendar events reviewed (check below)
 - [ ] Personal commitments added to calendar section
-- [ ] **Workout time chosen** - TBD based on schedule
+- [✓] **Workout time chosen** - TBD based on schedule
 - [ ] Today's priorities are realistic given available time
 - [ ] Clear mental picture of the day's flow
 - [ ] Top priority identified: QTI Q1 2026 finalization (CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [ ] **Time TBD** - Choose based on calendar and energy level
+- [✓] **Time chosen** - What time did you choose?
 - Options: Noon workout if calendar allows, or 4:30/5:30 PM
 
 ---
@@ -270,15 +270,14 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - Various optional office hours throughout the day
 
 **🏠 Personal Commitments:**
-- Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!)
-- 3:30 PM - Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
+- Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!) - ✓ DONE
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 **⏰ Available Work Blocks:**
 - **8:30-10:00 AM (1h 30min)** - Morning focus block before 1:1 with Todd
 - **1:00-1:45 PM (45 min)** - Post-lunch focus + prep for manager interview (last 15 min)
-- **2:45-3:30 PM (45 min)** - Final push before pickup
-- **Total: ~3h 0min deep work time**
+- **2:45 PM onwards** - Afternoon focus time (no pickup today!)
+- **Total: More time available than expected - use for QTI/Stats push**
 
 ---
 
@@ -293,7 +292,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [ ] Engineer feedback: Start first drafts (due Thursday)
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
-- [ ] Call First Chair Services - schedule ski tune
+- [✓] Call First Chair Services - schedule ski tune
 - [ ] Evening: Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 📋 **If Time Permits (Personal)**
@@ -303,7 +302,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ---
 
 ### ✅ COMPLETED SO FAR TODAY
-- (Will update throughout the day)
+- Morning review: Work calendar reviewed
+- Workout time chosen
+- Called First Chair Services - ski tune scheduled
 
 ---
 
@@ -342,10 +343,10 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ⏳ Stats rolled to Wed | ⏳ QTI rolled to Wed
 
 ### Wednesday, Jan 28 (TODAY) 🔥🔥🔥
-- **Morning:** 10:00 AM 1:1 with Todd | 10:15 AM Daily Standup | Call First Chair Services (ski tune)
+- **Morning:** ✓ Call First Chair Services (ski tune) | 10:00 AM 1:1 with Todd | 10:15 AM Daily Standup
 - **Midday:** 11:30 AM HL Eng All Hands | 12:00 PM Monthly Borrow Design Review
 - **1:45-2:45 PM:** Manager interview (Senior Manager Software Engineer) - prep 1:30-1:45 PM
-- **3:30 PM:** Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
+- **Afternoon:** Extended work time available (no pickup today!)
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 - **🔥 CRITICAL DEADLINES TODAY:**
   - **QTI Q1 2026 plan finalized and shared with leads (END OF DAY)**
