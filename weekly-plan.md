@@ -50,6 +50,7 @@
 - [ ] Complete QTI for Q1 2026 and share with leads - due TODAY Wed Jan 28 (SPRINT GOAL)
 - [✓] Stats on SoFi <-> Encompass sync to Aravind - due TODAY Wed Jan 28 (SPRINT GOAL)
 - [ ] Complete feedback for engineers - due Thursday Jan 29 (SPRINT GOAL)
+- [ ] **Palantir POC work - HIGH PRIORITY** (start after QTI complete)
 
 🏠 **Personal must-dos:**
 - [✓] Book Airbnb for Whitefish competition (Feb 5-8) - DONE
@@ -57,7 +58,7 @@
 - [ ] Prep for Big Sky competition (Jan 30-31, weather day Feb 1)
 - [ ] Pinkerton work: Start quarter round or nail hole filling if evening available
 
-**Energy level:** ⚡⚡⚡⚪⚪ (3/5 - Managing multiple priorities)
+**Energy level:** ⚡⚡⚡⚪⚪ (3/5 - Managing multiple priorities, Palantir urgency increased)
 
 ---
 
@@ -86,17 +87,19 @@
 ### Palantir Validation & Orchestration Layer
 **Progress:** ░░░░░░░░░░ 0% (0 of 4 milestones) | **Sprint target:** 25%
 **Started:** Jan 27, 2026 | **Last worked:** Not started yet
-**Next milestone:** Requirements gathering/discovery
+**Next milestone:** Requirements gathering/discovery → POC
 **This week:** Begin discovery work after QTI deadline (today)
+**PRIORITY SHIFT:** Palantir is ready to push hard on POC - HIGH PRIORITY
 
 **Milestones:**
 - [→] **Requirements gathering / discovery - CURRENT FOCUS**
+- [→] **Proof of concept - PALANTIR READY TO PUSH HARD**
 - [ ] Architecture design
-- [ ] Proof of concept
 - [ ] Share with stakeholders for direction validation
 
 **Notes:**
 - Build a Palantir-based validation and orchestration layer between POS origination systems and Encompass (LOS)
+- **NEW: Palantir is ready to accelerate POC work - this is now high priority**
 - Next 2 weeks: Provide updates to Aravind and Todd
 - Final milestone: Present to stakeholders to validate chosen direction
 
@@ -415,8 +418,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - Accept limited Pinkerton progress this week due to Big Sky
 
 ### 🎯 Focus Areas
-- **Work:** QTI Q1 plan and Stats are TOP priority TODAY
-- **Personal:** Big Sky logistics (ski tune call TODAY, shin routine Wed/Thu)
+- **Work:** QTI Q1 plan is TOP priority TODAY, then shift to **Palantir POC (HIGH PRIORITY)**
+- **Work:** Engineer feedback due Thursday
+- **Personal:** Big Sky logistics (ski pickup Thu, shin routine Wed/Thu)
 - **House:** Start when possible, no pressure this week
 
 ### 💡 System Notes
