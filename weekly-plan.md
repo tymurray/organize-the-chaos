@@ -5,7 +5,7 @@
 
 ### Sprint Goals (by Jan 31):
 💼 **Work:**
-- [ ] Q1 2026 QTI plan finalized and shared with leads (due Wed Jan 28)
+- [ ] Q1 2026 QTI plan finalized and shared with leads (due TODAY Tue Jan 27)
 - [ ] Stats on SoFi <-> Encompass sync delivered to Aravind
 - [ ] Engineer feedback completed
 
@@ -47,7 +47,7 @@
 ## THIS WEEK'S BALANCE
 
 💼 **Work deliverables:**
-- [ ] Complete QTI for Q1 2026 and share with leads - due Wednesday Jan 28 (SPRINT GOAL)
+- [ ] Complete QTI for Q1 2026 and share with leads - due TODAY Tue Jan 27 (SPRINT GOAL)
 - [ ] Stats on SoFi <-> Encompass sync to Aravind - due END OF TODAY (SPRINT GOAL)
 - [ ] Complete feedback for engineers - due Thursday (SPRINT GOAL)
 
@@ -67,18 +67,18 @@
 **Progress:** ████░░░░░░ 40% (2 of 5 milestones) | **Sprint target:** 60%
 **Started:** Jan 5, 2026 | **Last worked:** Jan 25
 **Next milestone:** Q1 2026 plan finalized
-**This week:** Finish Q1 plan by Wed + deliver stats to Aravind
+**This week:** Finish Q1 plan by TODAY + deliver stats to Aravind
 
 **Milestones:**
 - [✓] Q4 2025 initial review complete
-- [→] **Q1 2026 plan finalized (due Wed Jan 28) - CURRENT FOCUS**
+- [→] **Q1 2026 plan finalized (due TODAY Tue Jan 27) - CRITICAL DEADLINE**
 - [ ] Q4 2025 final wins report (Feb)
 - [ ] Q1 2026 mid-quarter check-in (Feb)
 - [ ] Q2 2026 planning kickoff (beginning of March)
 - [ ] Q1 2026 final report (March 31)
 
 **Notes:**
-- Wed Jan 28: Share finalized Q1 plan with leadership/eng leads
+- TODAY Tue Jan 27: Share finalized Q1 plan with leadership/eng leads (END OF DAY)
 - Stats delivery is part of ongoing reporting work
 
 ---
@@ -284,7 +284,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 💼 **Work Focus (Top 2)**
 - [✓] Prep for 11:15 AM interview (Staff Software Engineer) - **Before 11:15 AM**
-- [ ] QTI Q1 2026: Major progress on finalization (DUE TOMORROW Wed Jan 28!)
+- [ ] QTI Q1 2026: FINALIZE AND SHARE WITH LEADS (DUE TODAY - END OF DAY!)
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
 - [ ] Call First Chair Services - schedule ski tune
@@ -319,7 +319,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 **Tomorrow Planning:**
 - [ ] Incomplete items moved to tomorrow or dropped (be honest)
-- [ ] Tomorrow's #1 CAN'T MISS identified: QTI Q1 2026 finalization (DEADLINE)
+- [ ] Tomorrow's #1 CAN'T MISS identified: Engineer feedback drafts
 - [ ] Any blockers or concerns noted below
 
 **Brain Dump (write anything causing anxiety):**
@@ -328,7 +328,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 -
 
 **Tomorrow Preview:**
-- Top priority: QTI Q1 2026 finalization - DEADLINE DAY
+- Top priority: Engineer feedback drafts
 - Key appointments: [Any critical meetings or commitments?]
 - Big Sky prep continues (pack gear, evening shin routine)
 
@@ -340,16 +340,17 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton work | ✓ New car for Lali (evening)
 ⏳ Stats rolled to Tue
 
-### Tuesday, Jan 27 (TODAY)
+### Tuesday, Jan 27 (TODAY) 🔥🔥🔥
 - **Morning:** ✓ Order boot straps | Call First Chair Services (ski tune)
-- **8:30-11:15 AM:** Extended focus time (HLID Backlog skipped) - STATS WORK
+- **12:00 PM:** CrossFit workout
+- **1:00-3:30 PM:** Deep work time for QTI + Stats
 - **3:30 PM:** Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
-- **4:30 PM:** CrossFit workout
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
-- **Work:** Complete Stats for Aravind + Major progress on QTI
+- **🔥 CRITICAL DEADLINES TODAY:**
+  - **QTI Q1 2026 plan finalized and shared with leads (END OF DAY)**
+  - **Stats for Aravind delivered (END OF DAY)**
 
-### Wednesday, Jan 28 🔥
-- **DEADLINE:** QTI Q1 2026 plan finalized and shared with leads (TOP PRIORITY)
+### Wednesday, Jan 28
 - **Work:** Complete engineer feedback drafts
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
