@@ -252,8 +252,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [ ] Top priority identified: QTI Q1 2026 finalization (CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [✓] **Time chosen** - What time did you choose?
-- Options: Noon workout if calendar allows, or 4:30/5:30 PM
+- [✓] **12:00 PM (Noon) CrossFit**
+- Good timing between meetings
 
 ---
 
@@ -271,6 +271,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 **🏠 Personal Commitments:**
 - Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!) - ✓ DONE
+- **12:00 PM:** CrossFit workout
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 **⏰ Available Work Blocks:**
@@ -303,7 +304,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### ✅ COMPLETED SO FAR TODAY
 - Morning review: Work calendar reviewed
-- Workout time chosen
+- Workout time chosen: 12:00 PM (Noon) CrossFit
 - Called First Chair Services - ski tune scheduled
 
 ---
