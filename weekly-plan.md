@@ -252,8 +252,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [ ] Top priority identified: QTI Q1 2026 finalization (CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [✓] **12:00 PM (Noon) CrossFit**
-- Good timing between meetings
+- [✓] **4:30 PM CrossFit**
+- Changed from noon due to HL All Hands ending at 12:15 PM
 
 ---
 
@@ -271,14 +271,15 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 **🏠 Personal Commitments:**
 - Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!) - ✓ DONE
-- **12:00 PM:** CrossFit workout
+- **4:30 PM:** CrossFit workout
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 **⏰ Available Work Blocks:**
 - **8:30-10:00 AM (1h 30min)** - Morning focus block before 1:1 with Todd
 - **1:00-1:45 PM (45 min)** - Post-lunch focus + prep for manager interview (last 15 min)
-- **2:45 PM onwards** - Afternoon focus time (no pickup today!)
-- **Total: More time available than expected - use for QTI/Stats push**
+- **2:45-4:30 PM (1h 45min)** - Afternoon focus before workout
+- **After 5:30 PM** - Evening work time if needed
+- **Total: ~3h 45min+ deep work time available**
 
 ---
 
@@ -304,7 +305,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### ✅ COMPLETED SO FAR TODAY
 - Morning review: Work calendar reviewed
-- Workout time chosen: 12:00 PM (Noon) CrossFit
+- Workout time chosen: 4:30 PM CrossFit (changed from noon due to HL All Hands)
 - Called First Chair Services - ski tune scheduled
 
 ---
