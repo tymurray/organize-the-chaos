@@ -259,9 +259,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - 11:15 AM-12:15 PM - Interview: Staff Software Engineer candidate - **COMPLETED**
 - 12:00-1:00 PM - **CrossFit Workout**
 - 12:30-1:30 PM - ~~HL Eng Design Review: SoFi-driven HL task orchestration Plan~~ **SKIPPING**
-- 1:30-2:30 PM - ❇️ Focus Time (Clockwise) (1 hour)
-- 2:30-2:55 PM - ~~Originations Technical Sync (25 min)~~ **CANCELLED**
-- 2:55-5:00 PM - ❇️ Focus Time (Clockwise) (2h 5min, ends at 3:30 PM for pickup)
+- 1:30-1:45 PM - ❇️ Focus Time (15 min) - **PREP FOR MANAGER INTERVIEW**
+- 1:45-2:45 PM - **Manager Interview** (1 hour)
+- 2:45-3:30 PM - ❇️ Focus Time (45 min) - **QTI/STATS PUSH**
 
 **🏠 Personal Commitments:**
 - Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!)
@@ -272,8 +272,11 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 **⏰ Available Work Blocks:**
 - **8:30-11:15 AM (2h 45min)** - Extended focus (HLID Backlog skipped) - STATS WORK
 - 12:00-1:00 PM - CrossFit workout
-- **1:00-3:30 PM (2h 30min)** - Post-workout focus time (Design Review skipped) - STATS/QTI WORK
-- **Total: ~5h 15min deep work time**
+- **1:00-1:30 PM (30 min)** - Post-workout time - Stats wrap-up or quick QTI review
+- 1:30-1:45 PM (15 min) - **PREP FOR MANAGER INTERVIEW**
+- 1:45-2:45 PM - **MANAGER INTERVIEW**
+- **2:45-3:30 PM (45 min)** - Final push for QTI/Stats before pickup
+- **Total: ~4h 0min deep work time** (reduced due to manager interview)
 
 ---
 
@@ -284,7 +287,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 💼 **Work Focus (Top 3)**
 - [✓] Prep for 11:15 AM interview (Staff Software Engineer) - **Before 11:15 AM**
-- [ ] Prep for manager interview (this afternoon)
+- [ ] Prep for 1:45 PM manager interview - **Use 1:30-1:45 PM slot**
 - [ ] QTI Q1 2026: FINALIZE AND SHARE WITH LEADS (DUE TODAY - END OF DAY!)
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
@@ -342,9 +345,10 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ⏳ Stats rolled to Tue
 
 ### Tuesday, Jan 27 (TODAY) 🔥🔥🔥
-- **Morning:** ✓ Order boot straps | Call First Chair Services (ski tune)
+- **Morning:** ✓ Order boot straps | ✓ 11:15 AM Staff Engineer interview | Call First Chair Services (ski tune)
 - **12:00 PM:** CrossFit workout
-- **1:00-3:30 PM:** Deep work time for QTI + Stats
+- **1:45 PM:** Manager interview (prep 1:30-1:45 PM)
+- **2:45-3:30 PM:** Final push on QTI/Stats
 - **3:30 PM:** Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 - **🔥 CRITICAL DEADLINES TODAY:**
