@@ -12,7 +12,7 @@
 🏠 **Personal:**
 - [ ] Big Sky competition (Jan 30-31, weather day Feb 1) executed smoothly
 - [✓] Whitefish Airbnb booked (Feb 5-8)
-- [ ] Subaru appointment scheduled (oil leak + check engine light)
+- [✓] New car for Lali (Subaru traded in)
 - [ ] Pinkerton: Start prep work if time allows
 
 **Sprint review:** Friday, Jan 31 at 4 PM
@@ -53,7 +53,7 @@
 
 🏠 **Personal must-dos:**
 - [✓] Book Airbnb for Whitefish competition (Feb 5-8) - DONE
-- [ ] Schedule Subaru appointment (oil leak + check engine light) (SPRINT GOAL)
+- [✓] New car for Lali (Subaru traded in) - DONE
 - [ ] Prep for Big Sky competition (Jan 30-31, weather day Feb 1)
 - [ ] Pinkerton work: Start quarter round or nail hole filling if evening available
 
@@ -230,8 +230,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ---
 
 ## COMPLETED: Monday, January 26
-✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton: Nail holes + quarter round (1 piece left)
-⏳ Stats for Aravind (rolled to Tue) | ⏳ Subaru call (rolled to Tue)
+✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton: Nail holes + quarter round (1 piece left) | ✓ New car for Lali (evening - Subaru traded in)
+⏳ Stats for Aravind (rolled to Tue)
 
 ---
 
@@ -288,7 +288,6 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [ ] QTI Q1 2026: Major progress on finalization (DUE TOMORROW Wed Jan 28!)
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
-- [ ] Call Subaru dealership for oil leak appointment
 - [ ] Call First Chair Services - schedule ski tune
 - [✓] Order boot straps for Javin's boots (shin bang)
 - [ ] Evening: Javin shin routine (ice + ibuprofen + strengthening exercises)
@@ -308,6 +307,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - 11:15 AM Interview with Staff Software Engineer candidate - completed
 - Scorecard filled out and submitted
 - Booster strap ordered for Javin
+- New car for Lali purchased (Subaru traded in last night)
 
 ---
 
@@ -338,11 +338,11 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## THIS WEEK - Key Deadlines
 
 ### Monday, Jan 26 - COMPLETE
-✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton work
-⏳ Stats rolled to Tue | ⏳ Subaru call rolled to Tue
+✓ Whitefish Airbnb booked | ✓ Interview + scorecard | ✓ Pinkerton work | ✓ New car for Lali (evening)
+⏳ Stats rolled to Tue
 
 ### Tuesday, Jan 27 (TODAY)
-- **Morning:** Call Subaru + Call First Chair Services (ski tune) + Order boot straps
+- **Morning:** ✓ Order boot straps | Call First Chair Services (ski tune)
 - **8:30-11:15 AM:** Extended focus time (HLID Backlog skipped) - STATS WORK
 - **3:30 PM:** Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
 - **4:30 PM:** CrossFit workout
@@ -402,7 +402,7 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## REMINDERS & NOTES
 
 ### 🚨 Don't Forget
-- **Subaru appointment** - This keeps getting deferred, schedule ASAP!
+- **New car for Lali** - ✓ DONE (Subaru traded in Mon evening)
 - **Whitefish Airbnb** - ✓ BOOKED for Feb 5-8
 - **Big Sky Jan 30** - Check-in 8 AM at BSSEF team room (ski ninja volunteer)
 
