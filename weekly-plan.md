@@ -246,8 +246,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [✓] Top priority identified: Stats for Aravind (CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [✓] **4:30 PM CrossFit**
-- Reason: After school pickup at 3:30 PM, good window for workout
+- [✓] **12:00 PM CrossFit** (CHANGED from 4:30 PM)
+- Reason: Not attending HL Eng Design Review, perfect window for noon workout
 
 ---
 
@@ -255,26 +255,25 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 **💼 Work Commitments:**
 - 8:30-10:15 AM - ❇️ Focus Time (Clockwise) (1h 45min)
-- 10:15-11:15 AM - HLID Backlog Review (1 hour) - **SKIPPING for extended focus time**
-- 11:15 AM-12:15 PM - Interview: Staff Software Engineer candidate
-- 12:30-1:30 PM - HL Eng Design Review: SoFi-driven HL task orchestration Plan
+- 10:15-11:15 AM - HLID Backlog Review (1 hour) - **SKIPPED for extended focus time**
+- 11:15 AM-12:15 PM - Interview: Staff Software Engineer candidate - **COMPLETED**
+- 12:00-1:00 PM - **CrossFit Workout**
+- 12:30-1:30 PM - ~~HL Eng Design Review: SoFi-driven HL task orchestration Plan~~ **SKIPPING**
 - 1:30-2:30 PM - ❇️ Focus Time (Clockwise) (1 hour)
 - 2:30-2:55 PM - ~~Originations Technical Sync (25 min)~~ **CANCELLED**
 - 2:55-5:00 PM - ❇️ Focus Time (Clockwise) (2h 5min, ends at 3:30 PM for pickup)
 
 **🏠 Personal Commitments:**
-- Morning: Call Subaru dealership for oil leak appointment (MUST DO)
 - Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!)
-- Morning: Order boot straps for Javin's boots (MUST DO - shin bang)
+- 12:00 PM - CrossFit workout
 - 3:30 PM - Pick up Easton & Javin from school (Romeo at gymnastics with Nidia)
-- 4:30 PM - CrossFit workout
 - **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 
 **⏰ Available Work Blocks:**
 - **8:30-11:15 AM (2h 45min)** - Extended focus (HLID Backlog skipped) - STATS WORK
-- 1:30-2:30 PM (1 hour) - Continue Stats or start QTI
-- 2:30-3:30 PM (1 hour) - Extra time from cancelled meeting
-- **Total: ~4h 45min deep work time**
+- 12:00-1:00 PM - CrossFit workout
+- **1:00-3:30 PM (2h 30min)** - Post-workout focus time (Design Review skipped) - STATS/QTI WORK
+- **Total: ~5h 15min deep work time**
 
 ---
 
