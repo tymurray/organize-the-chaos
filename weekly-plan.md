@@ -282,8 +282,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 🔥 **CAN'T MISS (Just 1)**
 - [ ] Stats for Aravind: Complete SoFi <-> Encompass sync data (rolled from Monday) - **Use morning 2h 45min block**
 
-💼 **Work Focus (Top 2)**
+💼 **Work Focus (Top 3)**
 - [✓] Prep for 11:15 AM interview (Staff Software Engineer) - **Before 11:15 AM**
+- [ ] Prep for manager interview (this afternoon)
 - [ ] QTI Q1 2026: FINALIZE AND SHARE WITH LEADS (DUE TODAY - END OF DAY!)
 
 🏠 **Personal MUST DO (Big Sky this weekend!)**
