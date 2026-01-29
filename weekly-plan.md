@@ -268,11 +268,11 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ### 📅 TODAY'S CALENDAR
 
 **💼 Work Commitments:**
-- 10:15-11:15 AM - HLID Backlog Review (1 hour)
-- 11:30 AM-12:00 PM - HL: Weekly Incident + On-Call Review (30 min)
-- 12:00-1:00 PM - Data Privacy Week Trivia (optional - 1 hour)
-- 2:30-2:55 PM - HEX Platform Observability (25 min)
-- 3:30-4:15 PM - SoFi - Brighthire Training for EPD (45 min)
+- 10:15-11:15 AM - HLID Backlog Review (optional/skip)
+- 11:30 AM-12:00 PM - HL: Weekly Incident + On-Call Review (optional/skip)
+- 12:00-1:00 PM - Data Privacy Week Trivia (optional/skip)
+- **2:30-2:55 PM - HEX Platform Observability (REQUIRED - only meeting to attend!)**
+- 3:30-4:15 PM - SoFi - Brighthire Training for EPD (optional/skip)
 
 **🏠 Personal Commitments:**
 - **8:15 AM:** Nidia's lash appointment (may affect morning routine)
@@ -282,11 +282,10 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - **Before leaving:** Finish packing gear for Big Sky
 
 **⏰ Available Work Blocks:**
-- **8:30-10:15 AM (1h 45min)** - Morning focus block
-- **12:00-2:30 PM (2h 30min)** - Midday focus (or attend Data Privacy Trivia)
-- **3:00-3:30 PM (30 min)** - Brief window between meetings
-- **After 4:15 PM** - Need to pick up skis and leave for Four Corners
-- **Total: ~4h 45min deep work time available (before leaving)**
+- **8:30 AM-2:30 PM (~6 hours)** - Long uninterrupted focus block (only interrupted by 2:30 meeting!)
+- **2:55-4:30 PM (1h 35min)** - Afternoon block after HEX meeting
+- **After 4:30 PM** - Need to pick up skis and leave for Four Corners
+- **Total: ~7h 35min deep work time available (excellent for engineer feedback!)**
 
 ---
 
@@ -362,10 +361,10 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### Thursday, Jan 29 (TODAY) 🔥🔥🔥
 - **8:15 AM:** Nidia's lash appointment (may affect morning routine)
-- **Morning:** 10:15 AM HLID Backlog Review
-- **Midday:** 11:30 AM Incident Review | 2:30 PM HEX Platform Observability | 3:30 PM Brighthire Training
+- **2:30 PM:** HEX Platform Observability (ONLY required meeting - 25 min)
 - **🔥 CRITICAL DEADLINE TODAY:** Engineer feedback drafts (DUE TODAY - SPRINT GOAL!)
 - **🔥 CRITICAL BEFORE LEAVING:** Pick up skis from First Chair Services (MUST DO!)
+- **Excellent work time:** ~7.5 hours available for deep work before leaving
 - **Evening:** Drive to Four Corners for overnight stay
 - **Before leaving:** Pack gear + Javin shin routine
 
