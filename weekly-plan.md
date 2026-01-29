@@ -276,8 +276,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 **🏠 Personal Commitments:**
 - **12:00 PM:** CrossFit workout (Noon)
-- **Afternoon:** Pick up Javin and Ty's skis from First Chair Services (MUST DO before leaving!)
-- **Late afternoon/Evening:** Drive to Four Corners - stay the night before Big Sky competition
+- **Before 4:00 PM:** Pick up Javin and Ty's skis from First Chair Services (MUST DO!)
+- **4:00 PM:** Javin's mandatory freeride meeting at Crested house (need to be there to help)
+- **After meeting (~5:00 PM):** Drive to Four Corners - stay the night before Big Sky competition
 - **Before leaving:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 - **Before leaving:** Finish packing gear for Big Sky
 
@@ -286,9 +287,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 **⏰ Available Work Blocks:**
 - **8:30-11:55 AM (~3h 25min)** - Morning focus block before workout
 - **1:00-2:30 PM (1h 30min)** - Post-workout focus block before HEX meeting
-- **2:55-4:30 PM (1h 35min)** - Afternoon block after HEX meeting
-- **After 4:30 PM** - Need to pick up skis and leave for Four Corners
-- **Total: ~6h 30min deep work time available (still excellent for engineer feedback!)**
+- **2:55-3:45 PM (50 min)** - Brief afternoon window (need to leave by ~3:45 for Crested house)
+- **Total: ~5h 45min deep work time available (still good for engineer feedback!)**
 
 ---
 
@@ -300,13 +300,14 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 💼 **Work Focus (Top 3)**
 - [ ] Palantir POC work: Start discovery/requirements gathering (HIGH PRIORITY - if time allows)
 - [ ] QTI Q1 2026: Check status and finalize if not done yesterday
-- [ ] Attend key meetings: HLID Backlog Review, Incident Review
+- [ ] 2:30 PM: Attend HEX Platform Observability meeting
 
 🏠 **Personal MUST DO (Leaving for Big Sky tonight!)**
-- [ ] Pick up Javin and Ty's skis from First Chair Services (CRITICAL - before leaving!)
+- [ ] Pick up Javin and Ty's skis from First Chair Services (CRITICAL - before 4pm!)
+- [ ] 4:00 PM: Help Javin with mandatory freeride meeting at Crested house
 - [ ] Finish packing gear for Big Sky competition
 - [ ] Javin shin routine before leaving (ice + ibuprofen + strengthening exercises)
-- [ ] Drive to Four Corners for overnight stay
+- [ ] Drive to Four Corners after freeride meeting (~5pm)
 
 📋 **If Time Permits**
 - [ ] Review Big Sky schedule with Javin
@@ -364,11 +365,12 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### Thursday, Jan 29 (TODAY) 🔥🔥🔥
 - **12:00 PM:** CrossFit workout (Noon)
-- **2:30 PM:** HEX Platform Observability (ONLY required meeting - 25 min)
+- **2:30 PM:** HEX Platform Observability (ONLY work meeting - 25 min)
+- **4:00 PM:** Javin's mandatory freeride meeting at Crested house (need to help him)
 - **🔥 CRITICAL DEADLINE TODAY:** Engineer feedback drafts (DUE TODAY - SPRINT GOAL!)
-- **🔥 CRITICAL BEFORE LEAVING:** Pick up skis from First Chair Services (MUST DO!)
-- **Excellent work time:** ~6.5 hours available for deep work before leaving
-- **Evening:** Drive to Four Corners for overnight stay
+- **🔥 CRITICAL BEFORE 4PM:** Pick up skis from First Chair Services (MUST DO!)
+- **Work time:** ~5.75 hours available for deep work (leave by 3:45 PM for Crested house)
+- **After meeting (~5pm):** Drive to Four Corners for overnight stay
 - **Before leaving:** Pack gear + Javin shin routine
 - **Note:** Nidia's lash appointment cancelled (rescheduled to Mon Feb 2 at 1pm)
 
