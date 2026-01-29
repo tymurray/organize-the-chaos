@@ -5,9 +5,9 @@
 
 ### Sprint Goals (by Jan 31):
 💼 **Work:**
-- [ ] Q1 2026 QTI plan finalized and shared with leads (due TODAY Wed Jan 28)
-- [✓] Stats on SoFi <-> Encompass sync delivered to Aravind (due TODAY Wed Jan 28)
-- [ ] Engineer feedback completed (due Thursday Jan 29)
+- [ ] Q1 2026 QTI plan finalized and shared with leads (status unclear - check today)
+- [✓] Stats on SoFi <-> Encompass sync delivered to Aravind (DONE Wed Jan 28)
+- [ ] Engineer feedback completed (DUE TODAY Thu Jan 29)
 
 🏠 **Personal:**
 - [ ] Big Sky competition (Jan 30-31, weather day Feb 1) executed smoothly
@@ -47,10 +47,10 @@
 ## THIS WEEK'S BALANCE
 
 💼 **Work deliverables:**
-- [ ] Complete QTI for Q1 2026 and share with leads - due TODAY Wed Jan 28 (SPRINT GOAL)
-- [✓] Stats on SoFi <-> Encompass sync to Aravind - due TODAY Wed Jan 28 (SPRINT GOAL)
-- [ ] Complete feedback for engineers - due Thursday Jan 29 (SPRINT GOAL)
-- [ ] **Palantir POC work - HIGH PRIORITY** (start after QTI complete)
+- [ ] Complete QTI for Q1 2026 and share with leads - status unclear, check today
+- [✓] Stats on SoFi <-> Encompass sync to Aravind - DONE Wed Jan 28 (SPRINT GOAL)
+- [ ] Complete feedback for engineers - DUE TODAY Thu Jan 29 (SPRINT GOAL - CAN'T MISS!)
+- [ ] **Palantir POC work - HIGH PRIORITY** (start if time allows today)
 
 🏠 **Personal must-dos:**
 - [✓] Book Airbnb for Whitefish competition (Feb 5-8) - DONE
@@ -66,21 +66,21 @@
 
 ### QTI Planning & Reporting
 **Progress:** ████░░░░░░ 40% (2 of 5 milestones) | **Sprint target:** 60%
-**Started:** Jan 5, 2026 | **Last worked:** Jan 27
-**Next milestone:** Q1 2026 plan finalized
-**This week:** Finish Q1 plan by TODAY + deliver stats to Aravind
+**Started:** Jan 5, 2026 | **Last worked:** Jan 28
+**Next milestone:** Q1 2026 plan finalized (status unclear)
+**This week:** Check Q1 plan status + complete if needed
 
 **Milestones:**
 - [✓] Q4 2025 initial review complete
-- [→] **Q1 2026 plan finalized (due TODAY Wed Jan 28) - CRITICAL DEADLINE**
+- [→] **Q1 2026 plan finalized (status unclear - check today)**
 - [ ] Q4 2025 final wins report (Feb)
 - [ ] Q1 2026 mid-quarter check-in (Feb)
 - [ ] Q2 2026 planning kickoff (beginning of March)
 - [ ] Q1 2026 final report (March 31)
 
 **Notes:**
-- TODAY Wed Jan 28: Share finalized Q1 plan with leadership/eng leads (END OF DAY)
-- Stats delivery is part of ongoing reporting work
+- Stats delivery completed Wed Jan 28 ✓
+- Need to verify Q1 plan status and finalize if pending
 
 ---
 
@@ -88,7 +88,7 @@
 **Progress:** ░░░░░░░░░░ 0% (0 of 4 milestones) | **Sprint target:** 25%
 **Started:** Jan 27, 2026 | **Last worked:** Not started yet
 **Next milestone:** Requirements gathering/discovery → POC
-**This week:** Begin discovery work after QTI deadline (today)
+**This week:** Begin discovery work today if time allows (leaving for Big Sky tonight)
 **PRIORITY SHIFT:** Palantir is ready to push hard on POC - HIGH PRIORITY
 
 **Milestones:**
@@ -172,13 +172,13 @@
 **Milestones:**
 - [✓] Jackson Hole competition (Jan 7-8) - Complete
   - Travel, lodging, gear all handled successfully
-- [→] **Big Sky competition (Jan 30-31, weather day Feb 1) - CURRENT FOCUS (THIS WEEKEND!)**
+- [→] **Big Sky competition (Jan 30-31, weather day Feb 1) - CURRENT FOCUS (TOMORROW!)**
   - [✓] Registration complete
   - [✓] Lodging set (staying at condo)
   - [✓] Boot straps ordered for shin bang
-  - [ ] Ski tune scheduled (Call First Chair Services - MUST DO TODAY)
-  - [→] Shin routine established (ice + ibuprofen + strengthening - Wed/Thu evenings)
-  - [ ] Gear packed (Thu evening)
+  - [✓] Ski tune scheduled (First Chair Services - pickup TODAY!)
+  - [→] Shin routine established (ice + ibuprofen + strengthening - do before leaving)
+  - [ ] Gear packed (TODAY before leaving)
   - [→] Jan 30: Ski ninja volunteer (check-in 8 AM at BSSEF team room)
 - [ ] Whitefish competition (Feb 5-8)
   - [✓] Book Airbnb - DONE
@@ -244,74 +244,76 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ---
 
-## TODAY: Wednesday, January 28
+## COMPLETED: Wednesday, January 28
+✓ Called First Chair Services - ski tune scheduled | ✓ Stats for Aravind sent (SoFi <-> Encompass sync data) - CRITICAL DEADLINE MET! | ✓ Helped Lali remove cargo box from Subaru (4:30-5:00 PM) | ✓ 5:30 PM CrossFit workout | ✓ 10:00 AM 1:1 with Todd | ✓ 10:15 AM Daily Standup | ✓ 11:30 AM HL Eng All Hands | ✓ 12:00 PM Monthly Borrow Design Review | ✓ 1:45 PM Manager interview (Senior Manager Software Engineer)
+⏳ QTI Q1 2026 plan (status unclear - may still be pending)
+
+---
+
+## TODAY: Thursday, January 29
 
 ### ⏰ MORNING REVIEW (5 min - Do this FIRST)
-- [✓] Work calendar events reviewed (check below)
+- [ ] Work calendar events reviewed (check below)
 - [ ] Personal commitments added to calendar section
-- [✓] **Workout time chosen** - TBD based on schedule
+- [ ] **Workout time chosen** - TBD based on schedule
 - [ ] Today's priorities are realistic given available time
 - [ ] Clear mental picture of the day's flow
-- [ ] Top priority identified: QTI Q1 2026 finalization (CAN'T MISS)
+- [ ] Top priority identified: Engineer feedback drafts (DUE TODAY - CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [✓] **5:30 PM CrossFit**
-- Changed from 4:30 PM - need to help Lali remove cargo box from Subaru first
+- [ ] **TBD** - Choose based on schedule and packing needs
 
 ---
 
 ### 📅 TODAY'S CALENDAR
 
 **💼 Work Commitments:**
-- 10:00-10:25 AM - 1:1 Ty & Todd (25 min)
-- 10:15-10:30 AM - HLID Daily Standup (15 min)
-- 11:00 AM-12:00 PM - Data Privacy Week Keynote (optional)
-- 11:30 AM-12:15 PM - HL Eng All Hands (45 min)
-- 12:00-1:00 PM - Monthly Borrow Design Review (1 hour)
-- 12:15-1:00 PM - Council of HLena (45 min)
-- 1:45-2:45 PM - **Zoom Interview: Senior Manager Software Engineer** (1 hour) - NEED PREP
-- Various optional office hours throughout the day
+- 10:15-11:15 AM - HLID Backlog Review (1 hour)
+- 11:30 AM-12:00 PM - HL: Weekly Incident + On-Call Review (30 min)
+- 12:00-1:00 PM - Data Privacy Week Trivia (optional - 1 hour)
+- 2:30-2:55 PM - HEX Platform Observability (25 min)
+- 3:30-4:15 PM - SoFi - Brighthire Training for EPD (45 min)
 
 **🏠 Personal Commitments:**
-- Morning: Call First Chair Services for ski tune (MUST DO - Big Sky this weekend!) - ✓ DONE
-- **~4:30-5:00 PM:** Help Lali remove cargo box from Subaru (for trade-in)
-- **5:30 PM:** CrossFit workout
-- **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
+- **8:15 AM:** Nidia's lash appointment (may affect morning routine)
+- **Afternoon:** Pick up Javin and Ty's skis from First Chair Services (MUST DO before leaving!)
+- **Late afternoon/Evening:** Drive to Four Corners - stay the night before Big Sky competition
+- **Before leaving:** Javin shin routine (ice + ibuprofen + strengthening exercises)
+- **Before leaving:** Finish packing gear for Big Sky
 
 **⏰ Available Work Blocks:**
-- **8:30-10:00 AM (1h 30min)** - Morning focus block before 1:1 with Todd
-- **1:00-1:45 PM (45 min)** - Post-lunch focus + prep for manager interview (last 15 min)
-- **2:45-4:30 PM (1h 45min)** - Afternoon focus before helping Lali
-- **After 6:30 PM** - Evening work time if needed (post-workout)
-- **Total: ~3h 45min+ deep work time available**
+- **8:30-10:15 AM (1h 45min)** - Morning focus block
+- **12:00-2:30 PM (2h 30min)** - Midday focus (or attend Data Privacy Trivia)
+- **3:00-3:30 PM (30 min)** - Brief window between meetings
+- **After 4:15 PM** - Need to pick up skis and leave for Four Corners
+- **Total: ~4h 45min deep work time available (before leaving)**
 
 ---
 
 ### 🎯 TODAY'S PRIORITIES
 
 🔥 **CAN'T MISS (Just 1)**
-- [ ] QTI Q1 2026: FINALIZE AND SHARE WITH LEADS (DUE TODAY - END OF DAY!)
+- [ ] Engineer feedback: Complete first drafts (DUE TODAY - SPRINT GOAL!)
 
 💼 **Work Focus (Top 3)**
-- [✓] Stats for Aravind: Complete SoFi <-> Encompass sync data (DUE TODAY - END OF DAY!)
-- [ ] Prep for 1:45 PM manager interview (Senior Manager Software Engineer) - **Use 1:30-1:45 PM slot**
-- [ ] Engineer feedback: Start first drafts (due Thursday)
+- [ ] Palantir POC work: Start discovery/requirements gathering (HIGH PRIORITY - if time allows)
+- [ ] QTI Q1 2026: Check status and finalize if not done yesterday
+- [ ] Attend key meetings: HLID Backlog Review, Incident Review
 
-🏠 **Personal MUST DO (Big Sky this weekend!)**
-- [✓] Call First Chair Services - schedule ski tune
-- [ ] Evening: Javin shin routine (ice + ibuprofen + strengthening exercises)
+🏠 **Personal MUST DO (Leaving for Big Sky tonight!)**
+- [ ] Pick up Javin and Ty's skis from First Chair Services (CRITICAL - before leaving!)
+- [ ] Finish packing gear for Big Sky competition
+- [ ] Javin shin routine before leaving (ice + ibuprofen + strengthening exercises)
+- [ ] Drive to Four Corners for overnight stay
 
-📋 **If Time Permits (Personal)**
+📋 **If Time Permits**
 - [ ] Review Big Sky schedule with Javin
-- [ ] Start packing gear for Big Sky (finish Thursday before leaving)
+- [ ] Attend Data Privacy Week Trivia (12:00-1:00 PM)
 
 ---
 
 ### ✅ COMPLETED SO FAR TODAY
-- Morning review: Work calendar reviewed
-- Workout time chosen: 5:30 PM CrossFit (changed from 4:30 PM - helping Lali with cargo box first)
-- Called First Chair Services - ski tune scheduled
-- **Stats for Aravind sent** (SoFi <-> Encompass sync data) - CRITICAL DEADLINE MET! ✓
+- (Will update as day progresses)
 
 ---
 
@@ -323,9 +325,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - [ ] Personal MUST DO items: [List what got done]
 
 **Tomorrow Planning:**
-- [ ] Incomplete items moved to tomorrow or dropped (be honest)
-- [ ] Tomorrow's #1 CAN'T MISS identified: Engineer feedback drafts
-- [ ] Any blockers or concerns noted below
+- [ ] Big Sky competition starts tomorrow! (Fri Jan 30)
+- [ ] Ski ninja volunteer duty - check-in at 8 AM at BSSEF team room
+- [ ] Any last-minute items for Big Sky noted below
 
 **Brain Dump (write anything causing anxiety):**
 -
@@ -333,9 +335,9 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 -
 
 **Tomorrow Preview:**
-- Top priority: Engineer feedback drafts
-- Key appointments: [Any critical meetings or commitments?]
-- Big Sky prep continues (pack gear, evening shin routine)
+- Friday, Jan 30: Big Sky competition begins
+- 8:00 AM check-in at BSSEF team room
+- All day ski ninja volunteer duty
 
 ---
 
@@ -349,22 +351,23 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ✓ 11:15 AM Staff Engineer interview | ✓ Scorecard submitted | ✓ Booster strap ordered | ✓ 12:00 PM CrossFit workout
 ⏳ Stats rolled to Wed | ⏳ QTI rolled to Wed
 
-### Wednesday, Jan 28 (TODAY) 🔥🔥🔥
-- **Morning:** ✓ Call First Chair Services (ski tune) | 10:00 AM 1:1 with Todd | 10:15 AM Daily Standup
-- **Midday:** 11:30 AM HL Eng All Hands | 12:00 PM Monthly Borrow Design Review
-- **1:45-2:45 PM:** Manager interview (Senior Manager Software Engineer) - prep 1:30-1:45 PM
-- **Afternoon:** Extended work time available (no pickup today!)
-- **Evening:** Javin shin routine (ice + ibuprofen + strengthening exercises)
-- **🔥 CRITICAL DEADLINES TODAY:**
-  - **QTI Q1 2026 plan finalized and shared with leads (END OF DAY)**
-  - **Stats for Aravind delivered (END OF DAY)**
+### Wednesday, Jan 28 - COMPLETE
+- ✓ Called First Chair Services (ski tune scheduled)
+- ✓ Stats for Aravind delivered - CRITICAL DEADLINE MET!
+- ✓ 1:1 with Todd | ✓ Daily Standup | ✓ HL Eng All Hands | ✓ Monthly Borrow Design Review
+- ✓ Manager interview (Senior Manager Software Engineer)
+- ✓ Helped Lali with Subaru cargo box (4:30-5:00 PM)
+- ✓ 5:30 PM CrossFit workout
+- ⏳ QTI Q1 2026 plan (status unclear - may need follow-up)
 
-### Thursday, Jan 29
+### Thursday, Jan 29 (TODAY) 🔥🔥🔥
 - **8:15 AM:** Nidia's lash appointment (may affect morning routine)
-- **Work:** Complete engineer feedback drafts (DUE TODAY)
-- **Afternoon:** Pick up Javin and Ty's skis from First Chair Services (MUST DO before leaving)
-- **Afternoon/Evening:** Drive to Four Corners - stay the night before Big Sky competition
-- **Before leaving:** Javin shin routine + Finish packing gear
+- **Morning:** 10:15 AM HLID Backlog Review
+- **Midday:** 11:30 AM Incident Review | 2:30 PM HEX Platform Observability | 3:30 PM Brighthire Training
+- **🔥 CRITICAL DEADLINE TODAY:** Engineer feedback drafts (DUE TODAY - SPRINT GOAL!)
+- **🔥 CRITICAL BEFORE LEAVING:** Pick up skis from First Chair Services (MUST DO!)
+- **Evening:** Drive to Four Corners for overnight stay
+- **Before leaving:** Pack gear + Javin shin routine
 
 ### Friday, Jan 30
 - **8:00 AM:** Check-in at BSSEF team room for ski ninja volunteer duty
@@ -414,15 +417,16 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - **Big Sky Jan 30** - Check-in 8 AM at BSSEF team room (ski ninja volunteer)
 
 ### ⚡ Energy Management
-- This week is HEAVY: QTI deadline TODAY + Big Sky Thu-Sat
-- Protect TODAY for QTI and Stats work - minimize distractions
-- Accept limited Pinkerton progress this week due to Big Sky
+- This week is HEAVY: Engineer feedback DUE TODAY + Leaving for Big Sky tonight
+- Protect TODAY for engineer feedback - TOP PRIORITY
+- Limited time today - need to leave for Four Corners by late afternoon/evening
+- Accept limited work time this week due to Big Sky competition
 
 ### 🎯 Focus Areas
-- **Work:** QTI Q1 plan is TOP priority TODAY, then shift to **Palantir POC (HIGH PRIORITY)**
-- **Work:** Engineer feedback due Thursday
-- **Personal:** Big Sky logistics (ski pickup Thu, shin routine Wed/Thu)
-- **House:** Start when possible, no pressure this week
+- **Work:** Engineer feedback is TOP priority TODAY (CAN'T MISS!)
+- **Work:** Palantir POC work if time allows (HIGH PRIORITY but realistically next week)
+- **Personal:** Big Sky logistics (ski pickup TODAY, pack gear, shin routine before leaving)
+- **House:** No Pinkerton work this week due to Big Sky
 
 ### 💡 System Notes
 - Using Option 3: Monthly Sprint Layer
