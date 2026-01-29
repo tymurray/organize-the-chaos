@@ -275,12 +275,13 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - 3:30-4:15 PM - SoFi - Brighthire Training for EPD (optional/skip)
 
 **🏠 Personal Commitments:**
-- **8:15 AM:** Nidia's lash appointment (may affect morning routine)
 - **12:00 PM:** CrossFit workout (Noon)
 - **Afternoon:** Pick up Javin and Ty's skis from First Chair Services (MUST DO before leaving!)
 - **Late afternoon/Evening:** Drive to Four Corners - stay the night before Big Sky competition
 - **Before leaving:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 - **Before leaving:** Finish packing gear for Big Sky
+
+**Note:** Nidia's lash appointment cancelled - rescheduled to Monday, Feb 2 at 1:00 PM
 
 **⏰ Available Work Blocks:**
 - **8:30-11:55 AM (~3h 25min)** - Morning focus block before workout
@@ -362,13 +363,14 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 - ⏳ QTI Q1 2026 plan (status unclear - may need follow-up)
 
 ### Thursday, Jan 29 (TODAY) 🔥🔥🔥
-- **8:15 AM:** Nidia's lash appointment (may affect morning routine)
+- **12:00 PM:** CrossFit workout (Noon)
 - **2:30 PM:** HEX Platform Observability (ONLY required meeting - 25 min)
 - **🔥 CRITICAL DEADLINE TODAY:** Engineer feedback drafts (DUE TODAY - SPRINT GOAL!)
 - **🔥 CRITICAL BEFORE LEAVING:** Pick up skis from First Chair Services (MUST DO!)
-- **Excellent work time:** ~7.5 hours available for deep work before leaving
+- **Excellent work time:** ~6.5 hours available for deep work before leaving
 - **Evening:** Drive to Four Corners for overnight stay
 - **Before leaving:** Pack gear + Javin shin routine
+- **Note:** Nidia's lash appointment cancelled (rescheduled to Mon Feb 2 at 1pm)
 
 ### Friday, Jan 30
 - **8:00 AM:** Check-in at BSSEF team room for ski ninja volunteer duty
