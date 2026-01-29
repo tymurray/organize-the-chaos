@@ -317,6 +317,8 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 ### ✅ COMPLETED SO FAR TODAY
 - Morning review complete (all items ✓)
+- ✓ Picked up Javin and Ty's skis from First Chair Services
+- ✓ 12:00 PM CrossFit workout
 
 ---
 
