@@ -253,15 +253,15 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 ## TODAY: Thursday, January 29
 
 ### ⏰ MORNING REVIEW (5 min - Do this FIRST)
-- [ ] Work calendar events reviewed (check below)
-- [ ] Personal commitments added to calendar section
-- [ ] **Workout time chosen** - TBD based on schedule
+- [✓] Work calendar events reviewed (check below)
+- [✓] Personal commitments added to calendar section
+- [✓] **Workout time chosen** - 12:00 PM (Noon)
 - [ ] Today's priorities are realistic given available time
 - [ ] Clear mental picture of the day's flow
 - [ ] Top priority identified: Engineer feedback drafts (DUE TODAY - CAN'T MISS)
 
 **🏋️ Today's Workout Decision:**
-- [ ] **TBD** - Choose based on schedule and packing needs
+- [✓] **12:00 PM (Noon) CrossFit** - Light meeting day allows midday workout
 
 ---
 
@@ -276,16 +276,18 @@ Quarter round → Fill holes → Sand → Wall prep → Paint rooms → Paint ca
 
 **🏠 Personal Commitments:**
 - **8:15 AM:** Nidia's lash appointment (may affect morning routine)
+- **12:00 PM:** CrossFit workout (Noon)
 - **Afternoon:** Pick up Javin and Ty's skis from First Chair Services (MUST DO before leaving!)
 - **Late afternoon/Evening:** Drive to Four Corners - stay the night before Big Sky competition
 - **Before leaving:** Javin shin routine (ice + ibuprofen + strengthening exercises)
 - **Before leaving:** Finish packing gear for Big Sky
 
 **⏰ Available Work Blocks:**
-- **8:30 AM-2:30 PM (~6 hours)** - Long uninterrupted focus block (only interrupted by 2:30 meeting!)
+- **8:30-11:55 AM (~3h 25min)** - Morning focus block before workout
+- **1:00-2:30 PM (1h 30min)** - Post-workout focus block before HEX meeting
 - **2:55-4:30 PM (1h 35min)** - Afternoon block after HEX meeting
 - **After 4:30 PM** - Need to pick up skis and leave for Four Corners
-- **Total: ~7h 35min deep work time available (excellent for engineer feedback!)**
+- **Total: ~6h 30min deep work time available (still excellent for engineer feedback!)**
 
 ---
 
